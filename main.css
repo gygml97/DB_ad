@@ -1,0 +1,64 @@
+html {
+    padding: 10vw 8.056vw 10vw 8.056vw;
+  }
+  
+  body {
+    margin: 0;
+    width: 100%;
+    
+  }
+  
+ 
+.Blokee {
+    width: 15vw;
+    height: 2.969vh;
+    font-size: 4.444vw;
+    /* line-height: 2.63; */
+    letter-spacing: -0.200vw;
+    margin-bottom: 8.59375vh;
+  }
+
+  .first_desc {
+    width: 15vw;
+    height: 2.969vh;
+    font-size: 4.444vw;
+    font-family: "Montserrat";
+    /* line-height: 2.63; */
+    letter-spacing: -0.200vw;
+    margin-bottom: 8.59375vh;
+  }
+  
+  .first_sub1 {
+    height: 6.40625vh;
+    font-size: 7.778vw;
+    font-family: "NotoSansCJKkr-Bold";
+    letter-spacing: -0.225vw;
+    text-align: center;
+    }
+
+    .first_sub2 {
+        font-size: 5vw;
+        font-family: "NotoSansCJKkr-Light";
+        letter-spacing: -0.400vw;
+        text-align: center;
+        margin-bottom: 5.46875vh;
+    }
+  
+  .ad_delete {
+    display:inline-block;
+  }
+  
+  
+  .google {
+      width: 59.944vw;
+      height: 8.28125vh;
+      display: inline-block;
+  }
+    .footer {
+      font-size: 4.444vw;
+      letter-spacing: -0.250vw;
+      margin-top: 16.5625vh;
+    }
+    .direction {
+        display:inline-block;
+    }
